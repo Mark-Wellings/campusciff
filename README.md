@@ -77,7 +77,6 @@ Then commit and uploaded .gitignore:
     git add .gitignore
     git commit -m "ignored"
     git push git@github.com:Mark-Wellings/campusciff.git
-    
 
     
 
