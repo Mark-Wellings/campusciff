@@ -117,6 +117,17 @@ Existing tags:
 
 
 ![pw](https://github.com/Mark-Wellings/campusciff/blob/master/pw.jpg)
+# 10. Social use 
+
+
+
+![campusciff](https://github.com/Mark-Wellings/campusciff/blob/master/campusciff.jpg)
+
+![follower](https://github.com/Mark-Wellings/campusciff/blob/master/follower.jpg)
+
+![star](https://github.com/Mark-Wellings/campusciff/blob/master/star.jpg)
+
+
 
 
 
