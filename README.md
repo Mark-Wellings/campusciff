@@ -1,5 +1,7 @@
 # 1. Create_repository
-![Create repository](https://github.com/Mark-Wellings/campusciff/blob/master/create_rep.png))
+
+
+![Create repository](https://github.com/Mark-Wellings/campusciff/blob/master/create_rep.png)
 
 
 **Entry en README.md**
@@ -19,6 +21,16 @@ Use:
     git clone git@github.com:Mark-Wellings/campusciff.git
 
 
+Folder .git created, no need to use
+
+
+    git init
+
+
+in git bash console.
+
+
+
 
 # 3. Push files to repository:
 
@@ -36,7 +48,71 @@ Use:
 **Files commited**
 
 
-    git push git@github.com:Mark-Wellings/campusciff.git     
+    git push git@github.com:Mark-Wellings/campusciff.git
+    
+    
+   **Files pushed to Github repository**
+
+
+# 4. Ignore file and folder:
+
+**privado.txt** and folder **privada** create in campusciff using right click :+1: :+1:
+
+or use:
+
+
+    touch privado.txt
+    mkdir privada
+
+.gitignore created with:
+
+    touch .gitignore
+
+ **privado.txt** and folder **privada** added to .gitignore
+ 
+ ![ignored](https://github.com/Mark-Wellings/campusciff/blob/master/ignored.jpg)
+ 
+Then commit and uploaded .gitignore:
+
+
+
+    git add .gitignore
+    git commit -m "ignored"
+    git push git@github.com:Mark-Wellings/campusciff.git
+    
+
+    
+
+
+
+    
+
+
+
+
+
+     
+  
+
+
+
+
+
+
+
+
+
+     
+  
+
+
+
+
+
+
+
+
+     
   
 
 
