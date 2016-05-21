@@ -78,6 +78,36 @@ Then commit and uploaded .gitignore:
     git commit -m "ignored"
     git push git@github.com:Mark-Wellings/campusciff.git
 
+# 5. Add file 1.txt
+
+
+Add file **1.txt** to folder **campusciff**:
+
+
+    $ pwd
+    /c/Users/Mark/Desktop/Practicas/campusciff
+
+    Mark@DESKTOP-05COGMK MINGW64 ~/Desktop/Practicas/campusciff (master)
+    $ touch 1.txt
+
+# 6. Create tag
+
+Add tag to latest commit
+
+    git tag v0.01
+
+Existing tags:
+
+    $ git tag
+    v.01
+
+![tag](https://github.com/Mark-Wellings/campusciff/blob/master/tag.jpg)
+
+
+
+# 7. 
+
+
     
 
 
