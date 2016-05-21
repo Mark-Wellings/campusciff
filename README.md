@@ -9,9 +9,11 @@
 
 
 
+# 2. Clone repository with: 
+
 Open folder practicas with right click open git bash here
 
 
-Clone repository with: 
+Use: 
 
     git clone git@github.com:Mark-Wellings/campusciff.git
