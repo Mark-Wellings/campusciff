@@ -17,3 +17,31 @@ Open folder practicas with right click open git bash here
 Use: 
 
     git clone git@github.com:Mark-Wellings/campusciff.git
+
+
+
+# 3. Push files to repository:
+
+
+    git add README.md
+    git add create_rep.png
+
+
+**Files stagged**
+    
+
+    git commit -m "initial commit"
+
+
+**Files commited**
+
+
+    git push git@github.com:Mark-Wellings/campusciff.git     
+  
+
+
+
+
+
+
+
