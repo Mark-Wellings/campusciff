@@ -102,10 +102,27 @@ Existing tags:
     v.01
 
 ![tag](https://github.com/Mark-Wellings/campusciff/blob/master/tag.jpg)
+# 7. Upload foto to GitHub
 
 
 
-# 7. 
+![foto](https://github.com/Mark-Wellings/campusciff/blob/master/foto.jpg)
+# 8. double authentication
+
+
+
+![double](https://github.com/Mark-Wellings/campusciff/blob/master/doubleauth.jpg)
+# 9. password
+
+
+
+![pw](https://github.com/Mark-Wellings/campusciff/blob/master/pw.jpg)
+
+
+
+
+
+
 
 
     
