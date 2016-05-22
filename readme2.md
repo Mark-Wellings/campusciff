@@ -33,3 +33,18 @@ Stagged and commited:
 
     git add -A
     git commit -m "initial commit"
+    
+Upload to new remote branch:
+     
+     
+     git push origin v0.2
+     
+New branch in repository created:
+
+
+    To git@github.com:Mark-Wellings/campusciff.git
+    * [new branch]      v0.2 -> v0.2
+
+
+
+![ignored](https://github.com/Mark-Wellings/campusciff/blob/master/newbranch.jpg)
