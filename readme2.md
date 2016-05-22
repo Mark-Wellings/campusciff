@@ -186,6 +186,23 @@ Different auth rights:
 ![auth](https://github.com/Mark-Wellings/campusciff/blob/master/auth.jpg)
 
 
+# 11. Create webpage:
+
+Automatically generated with: 
+
+
+
+
+![config](https://github.com/Mark-Wellings/campusciff/blob/master/config.jpg)
+
+
+See the page here: 
+
+
+
+![page](https://github.com/Mark-Wellings/campusciff/blob/master/page.jpg)
+
+
 
 
 
