@@ -164,6 +164,19 @@ Predefined in class:
 ![orga](https://github.com/Mark-Wellings/campusciff/blob/master/orga.jpg)
 
 
+# 10. Create team:
+
+
+
+Invitations not yet accepted: 
+
+
+
+
+![team](https://github.com/Mark-Wellings/campusciff/blob/master/team.jpg)
+
+
+
 
 
 
