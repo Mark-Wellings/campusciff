@@ -64,6 +64,77 @@ If I then use:
 They are identical again both on local and remote. 
 
 
+# 4. Merge conflict
+
+    git checkout master
+    echo "hola" >> fichero1.txt
+    git add -A
+    git commit -m "changed"
+
+
+Now master has a file which doesnt exist in v0.2
+
+
+    git checkout v0.2
+    echo "adios" >> fichero1.txt
+    git add -A
+    git commit -m "changed"
+
+Now both branches have a file named fichero1.txt but different content. 
+
+When merging I get an error, because line 1 has got different entries: 
+
+    git checkout master
+    git merge v0.2
+    Auto-merging fichero1.txt
+    CONFLICT (add/add): Merge conflict in fichero1.txt
+    Automatic merge failed; fix conflicts and then commit the result.
+
+# 5. List branches
+
+
+with merge: 
+
+
+    git branch --merged
+
+
+without merge
+
+
+
+    git branch --no-merged
+
+
+
+# 6. Fix conflict
+
+
+Wrongly merged file: 
+
+    <<<<<<< HEAD
+    hola
+    =======
+    adios
+    >>>>>>> v0.2
+
+
+Deleting manually lines 1,3 and 5. New file: 
+
+
+    hola
+    adios
+
+Add and commit after changes: 
+
+
+    git commit -a -m "noconflict"
+
+
+
+
+
+
 
 
  
