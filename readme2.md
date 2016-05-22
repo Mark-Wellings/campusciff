@@ -131,6 +131,33 @@ Add and commit after changes:
     git commit -a -m "noconflict"
 
 
+# 7. Create tag and delete branch
+
+
+
+    git tag v0.2
+    git branch -D v0.2
+
+# 8. List commits tags branches: 
+
+Predefined in class: 
+
+    git list
+
+
+
+![list1](https://github.com/Mark-Wellings/campusciff/blob/master/list1.jpg)
+
+
+
+
+![list2](https://github.com/Mark-Wellings/campusciff/blob/master/list2.jpg)
+
+
+
+
+
+
 
 
 
