@@ -136,7 +136,7 @@ Add and commit after changes:
 
 
     git tag v0.2
-    git branch -D v0.2
+    git branch -d v0.2
 
 # 8. List commits tags branches: 
 
@@ -152,6 +152,13 @@ Predefined in class:
 
 
 ![list2](https://github.com/Mark-Wellings/campusciff/blob/master/list2.jpg)
+
+
+
+# 9. Create organization:
+
+![orga](https://github.com/Mark-Wellings/campusciff/blob/master/orga.jpg)
+
 
 
 
