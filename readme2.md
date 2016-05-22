@@ -48,3 +48,35 @@ New branch in repository created:
 
 
 ![ignored](https://github.com/Mark-Wellings/campusciff/blob/master/newbranch.jpg)
+
+
+I noticed a mistake here should have been: 
+
+    
+    git push --set-upstream origin v0.2 
+
+
+
+After solving the merge conflicts with various 'git add' and 'git commit' I could finaly merge:
+
+
+
+    git checkout master
+    git merge v0.2
+
+If I am located in branch v0.2 and change fichero2.txt I have to add, commit and push. Then my branch v0.2 is different to master. 
+
+If I then use: 
+
+
+    git checkout master
+    git merge v0.2
+    git push origin master
+
+
+They are identical again. 
+
+
+
+
+ 
