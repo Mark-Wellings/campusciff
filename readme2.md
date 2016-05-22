@@ -178,7 +178,12 @@ Invitations not yet accepted:
 
 
 
+Different auth rights: 
 
+
+
+
+![auth](https://github.com/Mark-Wellings/campusciff/blob/master/auth.jpg)
 
 
 
