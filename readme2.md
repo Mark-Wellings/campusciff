@@ -128,7 +128,8 @@ Deleting manually lines 1,3 and 5. New file:
 Add and commit after changes: 
 
 
-    git commit -a -m "noconflict"
+    git add -A
+    git commit -m "noconflict"
 
 
 # 7. Create tag and delete branch
